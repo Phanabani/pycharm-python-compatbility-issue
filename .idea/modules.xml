@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pycharm-python-compatbility-issue.iml" filepath="$PROJECT_DIR$/.idea/pycharm-python-compatbility-issue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pycharm-python-compatibility-issue.iml" filepath="$PROJECT_DIR$/.idea/pycharm-python-compatibility-issue.iml" />
     </modules>
   </component>
 </project>
